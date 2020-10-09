@@ -4,10 +4,24 @@
     font-family: 'Shrikhand', cursive;
     background-color: rgb(17, 187, 150);
 }
+/*back ground */
+body{
+    background-image: url(../assets/images/bodybg.jpg);
+    background-size: cover;
 
-
+}
 
 img{
     max-height: 200px;
     max-width: 200px;
+}   
+
+
+
+
+
+
+
+footer{
+    color: white;
 }
