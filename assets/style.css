@@ -8,20 +8,39 @@
 body{
     background-image: url(../assets/images/bodybg.jpg);
     background-size: cover;
+    overflow: auto;
 
 }
+h1{
+    color:rgb(17, 187,150)
+}
 
-img{
-    max-height: 200px;
+p img{
+    max-height: 250px;
     max-width: 200px;
 }   
 
+.container{
+    background-color: white;
+    padding:25px;
+    float: left;
+    margin-top:30px;
+    margin-left: 30px;
 
+}
+.btn{
+    background-color: rgb(17, 187, 150) ;
+}
 
-
-
-
+img{
+    width: 300px;
+    height: 300px;
+}
 
 footer{
     color: white;
 }
+@media only screen and (max-width: 768px) {
+    .tricky {
+        margin-right: 1px;
+    }
