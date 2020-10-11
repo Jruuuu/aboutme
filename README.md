@@ -1,7 +1,7 @@
 # Responsive Portfolio
 **Version 1.0.0**
 ### In this Repo we were tasked to create a Responsive Portfolio from scratch. Using Bootstrap with a navbar, a responsive layout, and responsive images. Screen shoots of what the end result of my Responsive Portfolio should look like.
---
+--- 
 ## TASKING
 - [X] FUNCTIONAL, DEPLOYED APPLICATION
 - [X] README
@@ -43,12 +43,17 @@ THE SOFTWARE.
 ----
 ### LINKS
 BODY BG provided by Vecteezy.com
-![Screen shoots of what end results should look like](assets/images/samples/400-contact.png)
-(assets/images/samples/400-index .png)
-(assets/images/samples/400-portfolio.png)
-(assets/images/samples/768-contact.png)
-(assets/images/samples/768-index.png)
-(assets/images/samples/768-portfolio.png)
-(assets/images/samples/992-contact.png)
-(assets/images/samples/992-index.png)
-(assets/images/samples/992-portfolio.png)
+#### EXAMPLE of What my Responsive Portfolio should look like.
+![400 contact,20%](assets/images/samples/400-contact.png)
+
+![400 index,20%](assets/images/samples/400-index.png)
+
+![400 portfolio,20%](assets/images/samples/400-portfolio.png)
+
+![768 contact,20%](assets/images/samples/768-contact.png)
+
+![768 index,20%](assets/images/samples/768-index.png)
+![768 portfolio,20%](assets/images/samples/768-portfolio.png)
+![992 contact,20%](assets/images/samples/992-contact.png)
+![992 index,20%](assets/images/samples/992-index.png)
+![992 portfolio,20%](assets/images/samples/992-portfolio.png)
