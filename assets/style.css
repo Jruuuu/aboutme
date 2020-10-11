@@ -9,28 +9,25 @@ body{
     background-image: url(../assets/images/bodybg.jpg);
     background-size: cover;
     overflow: auto;
-
 }
 h1{
     color:rgb(17, 187,150)
 }
-
+/*make sure about me image is certain size*/
 p img{
     max-height: 250px;
     max-width: 200px;
 }   
-
+/*created a container class to style and make bg white*/
 .container{
     background-color: white;
     padding-bottom: 25px;
     float: left;
     margin-top:30px;
     margin-left: 30px;
+    
+}
 
-}
-.btn{
-    background-color: rgb(17, 187, 150) ;
-}
 
 img{
     width: 300px;
@@ -40,7 +37,3 @@ img{
 footer{
     color: white;
 }
-@media only screen and (max-width: 768px) {
-    .tricky {
-        margin-right: 1px;
-    }

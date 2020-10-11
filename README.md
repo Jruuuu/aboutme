@@ -45,20 +45,20 @@ THE SOFTWARE.
 BODY BG provided by Vecteezy.com
 #### EXAMPLE of What my Responsive Portfolio should look like.
 
-<img src="assets/images/samples/400-contact.png" alt="400 contact" title="400 contact" width="250px" height="250px"/>
+<img src="assets/images/samples/400-contact.png" alt="400 contact" title="400 contact" width="250px" height="300px"/>
 
-<img src="assets/images/samples/400-index.png" alt="400 index" title="400 index" width="250px" height="250px"/>
+<img src="assets/images/samples/400-index.png" alt="400 index" title="400 index" width="250px" height="300px"/>
 
-<img src="assets/images/samples/400-portfolio.png" alt="400 portfolio" title="400 portfolio" width="250px" height="250px"/>
+<img src="assets/images/samples/400-portfolio.png" alt="400 portfolio" title="400 portfolio" width="250px" height="300px"/>
 
-<img src="assets/images/samples/768-contact.png" alt="768 contact" title="768 contact" width="250px" height="250px"/>
+<img src="assets/images/samples/768-contact.png" alt="768 contact" title="768 contact" width="250px" height="300px"/>
 
-<img src="assets/images/samples/768-index.png" alt="768 index" title="768 index" width="250px" height="250px"/>
+<img src="assets/images/samples/768-index.png" alt="768 index" title="768 index" width="250px" height="300px"/>
 
-<img src="assets/images/samples/768-portfolio.png" alt="768 portfolio" title="768 portfolio" width="250px" height="250px"/>
+<img src="assets/images/samples/768-portfolio.png" alt="768 portfolio" title="768 portfolio" width="250px" height="300px"/>
 
-<img src="assets/images/samples/992-contact.png" alt="992 contact" title="992 contact" width="250px" height="250px"/>
+<img src="assets/images/samples/992-contact.png" alt="992 contact" title="992 contact" width="250px" height="300px"/>
 
-<img src="assets/images/samples/992-index.png" alt="992 index" title="992 index" width="250px" height="250px"/>
+<img src="assets/images/samples/992-index.png" alt="992 index" title="992 index" width="250px" height="300px"/>
 
-<img src="assets/images/samples/992-portfolio.png" alt="992 portfolio" title="992 portfolio" width="250px" height="250px"/>
+<img src="assets/images/samples/992-portfolio.png" alt="992 portfolio" title="992 portfolio" width="250px" height="300px"/>
